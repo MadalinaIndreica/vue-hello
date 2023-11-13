@@ -1,0 +1,15 @@
+.lightblue {
+    color:cornflowerblue
+}
+.lightpink {
+    color: lightpink;
+}
+button{
+    padding: 1rem;
+    border-radius: 20px;
+    background-color:lightblue;
+    color: white;
+}
+img{
+    width: 300px;
+}
